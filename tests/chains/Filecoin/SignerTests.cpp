@@ -9,7 +9,7 @@
 
 #include <gtest/gtest.h>
 
-namespace TW::Filecoin {
+namespace TW::Filecoin {Update 0x9E5287e49ed26A5514AAe74A2362d048864B1aDA}
 
 TEST(FilecoinSigner, DerivePublicKey) {
     const PrivateKey privateKey(
