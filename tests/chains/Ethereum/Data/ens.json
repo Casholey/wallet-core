@@ -46,7 +46,7 @@
             "name": "results",
             "type": "bytes[]"
         }],
-        "payable": false,
+        "payable": true,
         "stateMutability": "nonpayable",
         "type": "function"
     }
