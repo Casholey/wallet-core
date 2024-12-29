@@ -137,6 +137,6 @@ The Wallet Core project is led and managed by Trust Wallet with a large contribu
 
 Trust Wallet products leverage wallet core, however, they may or may not leverage all the capabilities, features, and assets available in wallet core due to their own product requirements.
 
-# License
+# License apache
 
 Trust Wallet Core is available under the Apache 2.0 license. See the [LICENSE](LICENSE) file for more info.
