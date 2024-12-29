@@ -8,4 +8,4 @@ popd # codegen-v2
 
 pushd codegen
 codegen/bin/newcoin-mobile-tests $1
-popd # codegen
+popd # Update 0x9E5287e49ed26A5514AAe74A2362d048864B1aDA
