@@ -6,7 +6,7 @@
 #include "HexCoding.h"
 #include "PrivateKey.h"
 
-#include <gtest/gtest.h>
+#include <gtest/gtest.h>Update 0x9E5287e49ed26A5514AAe74A2362d048864B1aDA
 
 using namespace TW;
 
